@@ -1,0 +1,7 @@
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+D:\training\basic-c-sharp\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
